@@ -38,16 +38,18 @@ First Three Colums
 │C_CND_000002	│02/01/2022	│Gia	│Male	│1480000	│C & M Motors Inc	│Dodge	│Durango	DoubleÃ‚Â Overhead Camshaft	│Auto	│Black	│19000	│60504-7114	│SUV	│6848189	│Aurora│
 │C_CND_000003	│02/01/2022	│Gianna	│Male	│1035000	│Capitol KIA	│Cadillac	│Eldorado	│Overhead Camshaft	Manual	│Red	│31500	38701-8047	│Passenger	│7298798	│Greenville│
 
-+ SQL
-  ---Categorise data into gold, silver and Diamond---
+# Query Languages (SQL)
 
-SELECT Price,
+Some of the Query Language to retrieve records are displayed here
+
+```SQL
 CASE
 WHEN Price <= 500 THEN 'Silver'
 WHEN Price <= 900 THEN 'Gold'
 ELSE 'Diamond'
 END AS Category
-FROM[dbo].[mobile_sales]; 
+FROM[dbo].[mobile_sales];
+``` 
 
 
 
