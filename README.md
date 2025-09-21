@@ -50,6 +50,7 @@ ELSE 'Diamond'
 END AS Category
 FROM[dbo].[mobile_sales];
 ```
+```SQL
 ---Retrieve the most expensive brand---
 SELECT * FROM [dbo].[mobile_sales]
 SELECT MAX(Price) AS 'Expensive Brand' FROM [dbo].[mobile_sales]
