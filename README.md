@@ -33,7 +33,7 @@ www.kaggle.com/dataset
 First Five Colums
 
 
-Car_id IDate	ICustomer Name	IGender	IAnnual Income	IDealer_Name	ICompany	IModel	IEngine	ITransmission	IColor	IPrice ($)	IDealer_No	IBody Style	IPhone	IDealer_Region
+/Car_id /Date	/Customer Name	/Gender	/Annual Income	/Dealer_Name	/Company	/Model	/Engine	/Transmission	/Color	/Price ($)	/Dealer_No	/Body Style	/Phone	/Dealer_Region/
 
 /----/----/----/----/----/----/----/----/----/----/----/----/----/----/----/-----/----/
 
