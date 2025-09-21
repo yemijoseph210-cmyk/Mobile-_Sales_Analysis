@@ -24,6 +24,9 @@ This analysis provides valuable insights into the factors driving sales, enablin
 www.kaggle.com/dataset
 
 ## Tools Used:
++ Pivot Table / Chart
++ Power BI
++ SQL
 
 
 
