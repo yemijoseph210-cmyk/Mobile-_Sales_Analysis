@@ -29,12 +29,12 @@ www.kaggle.com/dataset
 + SQL
 
 
-## Table Outlay
-First Five Colums
+## Table Outlay:
+First Three Colums
 
-/Car_id /Date	/Customer Name	/Gender	/Annual Income	/Dealer_Name	/Company	/Model	/Engine	/Transmission	/Color	/Price ($)	/Dealer_No	/Body Style	/Phone	/Dealer_Region/
+│Car_id │Date	│Customer Name	│Gender	│Annual Income	│Dealer_Name	│Company	│Model	│Engine	│Transmission	│Color	│Price ($)	│Dealer_No	│Body Style	│Phone	│Dealer_Region│
 
-/----/----/----/----/----/----/----/----/----/----/----/----/----/----/----/-----/----/
+
 
 
 
