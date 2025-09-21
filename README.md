@@ -49,7 +49,12 @@ WHEN Price <= 900 THEN 'Gold'
 ELSE 'Diamond'
 END AS Category
 FROM[dbo].[mobile_sales];
-``` 
+```
+---Retrieve the most expensive brand---
+SELECT * FROM [dbo].[mobile_sales]
+SELECT MAX(Price) AS 'Expensive Brand' FROM [dbo].[mobile_sales]
+ORDER BY [Expensive Brand] DESC;
+```
 
 
 
