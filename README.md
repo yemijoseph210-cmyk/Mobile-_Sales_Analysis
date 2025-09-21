@@ -30,14 +30,19 @@ www.kaggle.com/dataset
 
 
 ## Table Outlay
->> First Five Colums
+First Five Colums
 
 
-Car_id	Date	Customer Name	Gender	Annual Income	Dealer_Name	Company	Model	Engine	Transmission	Color	Price ($)	Dealer_No 	Body Style	Phone	Dealer_Region
+Car_id IDate	ICustomer Name	IGender	IAnnual Income	IDealer_Name	ICompany	IModel	IEngine	ITransmission	IColor	IPrice ($)	IDealer_No	IBody Style	IPhone	IDealer_Region
 
-C_CND_000001	02/01/2022	Geraldine	Male	13500	Buddy Storbeck's Diesel Service Inc	Ford	Expedition	DoubleÃ‚Â Overhead Camshaft	Auto	Black	26000	06457-3834	SUV	8264678	Middletown
-C_CND_000002	02/01/2022	Gia	Male	1480000	C & M Motors Inc	Dodge	Durango	DoubleÃ‚Â Overhead Camshaft	Auto	Black	19000	60504-7114	SUV	6848189	Aurora
-C_CND_000003	02/01/2022	Gianna	Male	1035000	Capitol KIA	Cadillac	Eldorado	Overhead Camshaft	Manual	Red	31500	38701-8047	Passenger	7298798	Greenville
-<img width="1696" height="117" alt="image" src="https://github.com/user-attachments/assets/4fdaea7b-d5bc-4f43-84f6-f454ce7392d8" />
+/----/----/----/----/----/----/----/----/----/----/----/----/----/----/----/-----/----/
+
+/C_CND_000001	/02/01/2022	/Geraldine	/Male	/13500	/Buddy /Storbeck's Diesel Service Inc	/Ford	/Expedition	DoubleÃ‚Â Overhead Camshaft	Auto	Black	26000	06457-3834	SUV	8264678	Middletown/
+/C_CND_000002	/02/01/2022	/Gia	/Male	/1480000	/C & M Motors Inc	/Dodge	/Durango	/DoubleÃ‚Â Overhead Camshaft	/Auto	/Black	/19000	60504-7114	/SUV	/6848189	/Aurora/
+/C_CND_000003	/02/01/2022	/Gianna	/Male	/1035000	/Capitol KIA	/Cadillac	/Eldorado	/Overhead Camshaft	Manual	/Red	/31500	38701-8047	/Passenger	/7298798	G/reenville/
+<img width="1600" height="73" alt="image" src="https://github.com/user-attachments/assets/ad8b9ee4-3fc1-40c5-b692-191c2dc4716a" />
+
+
+
 
 
