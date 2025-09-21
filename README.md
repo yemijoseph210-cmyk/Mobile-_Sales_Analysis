@@ -41,7 +41,7 @@ First Three Colums
 # Query Languages (SQL)
 
 Some of the Query Language to retrieve records are displayed here
-
+```
 ---Categorise data into gold, silver and Diamond---
 CASE
 WHEN Price <= 500 THEN 'Silver'
