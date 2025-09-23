@@ -32,11 +32,17 @@ www.kaggle.com/dataset
 ## Table Outlay:
 First Three Colums
 
-│Car_id │Date	│Customer Name	│Gender	│Annual Income	│Dealer_Name	│Company	│Model	│Engine	│Transmission	│Color	│Price ($)	│Dealer_No	│Body Style	│Phone	│Dealer_Region│
+│TransactionID│ Date│	MobileModel	Brand	Price	UnitsSold	TotalRevenue	CustomerAge	CustomerGender	Location	PaymentMethod
+<img width="1153" height="30" alt="image" src="https://github.com/user-attachments/assets/d3a2362a-2bc7-4f58-b7ca-c2faa285a429" />
+
 │----│----│----│----│----│----│----│----│-----│----│----│----│----│----│----│----│
-│C_CND_000001	│02/01/2022	│Geraldine	│Male	│13500	│Buddy Storbeck's Diesel Service Inc	│Ford	│Expedition	│DoubleÃ‚Â Overhead Camshaft	│Auto	│Black	│26000	│06457-3834	│SUV	│8264678	│Middletown│
-│C_CND_000002	│02/01/2022	│Gia	│Male	│1480000	│C & M Motors Inc	│Dodge	│Durango	DoubleÃ‚Â Overhead Camshaft	│Auto	│Black	│19000	│60504-7114	│SUV	│6848189	│Aurora│
-│C_CND_000003	│02/01/2022	│Gianna	│Male	│1035000	│Capitol KIA	│Cadillac	│Eldorado	│Overhead Camshaft	Manual	│Red	│31500	38701-8047	│Passenger	│7298798	│Greenville│
+
+TransactionID	Date	MobileModel	Brand	Price	UnitsSold	TotalRevenue	CustomerAge	CustomerGender	Location	PaymentMethod
+79397f68-61ed-4ea8-bcb2-f918d4e6c05b	01/06/2024	direction	Green Inc	1196.95	85	28002.8	32	Female	Port Erik	Online
+4f87d114-f522-4ead-93e3-f336402df6aa	04/05/2024	right	Thomas-Thompson	1010.34	64	2378.82	55	Female	East Linda	Credit Card
+6750b7d6-dcc5-48c5-a76a-b6fc9d540fe1	2/13/2024	summer	Sanchez-Williams	400.8	95	31322.56	57	Male	East Angelicastad	Online
+7da7de95-f772-4cc2-bce0-b0873f98233e	4/17/2024	keep	Greer and Sons	338.6	79	31159.75	46	Other	East Kevin	Cash
+<img width="1057" height="146" alt="image" src="https://github.com/user-attachments/assets/cfb096c6-580c-46e3-9dfd-55d1afb7aa91" />
 
 # Query Languages (SQL)
 
