@@ -32,10 +32,8 @@ www.kaggle.com/dataset
 ## Table Outlay:
 First Three Colums
 
-│TransactionID│ Date│	MobileModel	Brand	Price	UnitsSold	TotalRevenue	CustomerAge	CustomerGender	Location	PaymentMethod
-<img width="1153" height="30" alt="image" src="https://github.com/user-attachments/assets/d3a2362a-2bc7-4f58-b7ca-c2faa285a429" />
-
-│----│----│----│----│----│----│----│----│-----│----│----│----│----│----│----│----│
+│TransactionID│ Date│	MobileModel│	Brand│	Price│	UnitsSold│	TotalRevenue│	CustomerAge│	CustomerGender│	Location│	PaymentMethod│
+│----│----│----│----│----│----│----│----│-----│----│----│
 
 TransactionID	Date	MobileModel	Brand	Price	UnitsSold	TotalRevenue	CustomerAge	CustomerGender	Location	PaymentMethod
 79397f68-61ed-4ea8-bcb2-f918d4e6c05b	01/06/2024	direction	Green Inc	1196.95	85	28002.8	32	Female	Port Erik	Online
